@@ -1,0 +1,8 @@
+{
+  "parent": "jetpack:custom/strider",
+  "textures": {
+    "all": "jetpack:blocks/strider",
+    "particle": "jetpack:blocks/strider",
+    "0": "jetpack:blocks/strider"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "puffer_fish_big"
+      },
+      "name": "default"
+    }
+  }
+}

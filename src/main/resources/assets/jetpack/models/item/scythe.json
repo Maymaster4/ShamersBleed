@@ -1,0 +1,7 @@
+{
+  "parent": "jetpack:custom/scythe",
+  "textures": {
+    "0": "jetpack:blocks/scythe1",
+    "particle": "jetpack:items/scythe"
+  }
+}

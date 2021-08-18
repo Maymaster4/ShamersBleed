@@ -1,0 +1,8 @@
+{
+  "parent": "jetpack:custom/puffer_fish_big",
+  "textures": {
+    "all": "jetpack:blocks/puffer_fish_big",
+    "particle": "jetpack:blocks/puffer_fish_big",
+    "0": "jetpack:blocks/puffer_fish_big"
+  }
+}

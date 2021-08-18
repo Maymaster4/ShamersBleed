@@ -1,0 +1,8 @@
+{
+  "parent": "jetpack:custom/villager",
+  "textures": {
+    "all": "jetpack:blocks/villager",
+    "particle": "jetpack:blocks/villager",
+    "0": "jetpack:blocks/villager"
+  }
+}

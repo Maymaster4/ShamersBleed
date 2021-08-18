@@ -1,0 +1,8 @@
+{
+  "parent": "jetpack:custom/fox",
+  "textures": {
+    "all": "jetpack:blocks/fox1",
+    "particle": "jetpack:blocks/fox1",
+    "1": "jetpack:blocks/fox1"
+  }
+}

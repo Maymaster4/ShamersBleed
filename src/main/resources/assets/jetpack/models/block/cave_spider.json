@@ -1,0 +1,8 @@
+{
+  "parent": "jetpack:custom/cave_spider",
+  "textures": {
+    "all": "jetpack:blocks/cave_spider",
+    "particle": "jetpack:blocks/cave_spider",
+    "0": "jetpack:blocks/cave_spider"
+  }
+}

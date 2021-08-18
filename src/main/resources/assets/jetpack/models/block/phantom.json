@@ -1,0 +1,8 @@
+{
+  "parent": "jetpack:custom/phantom",
+  "textures": {
+    "all": "jetpack:blocks/phantom",
+    "particle": "jetpack:blocks/phantom",
+    "0": "jetpack:blocks/phantom"
+  }
+}

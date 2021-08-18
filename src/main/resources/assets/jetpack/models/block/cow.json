@@ -1,0 +1,8 @@
+{
+  "parent": "jetpack:custom/cow",
+  "textures": {
+    "all": "jetpack:blocks/cow",
+    "particle": "jetpack:blocks/cow",
+    "0": "jetpack:blocks/cow"
+  }
+}

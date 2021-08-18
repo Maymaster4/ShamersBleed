@@ -1,0 +1,8 @@
+{
+  "parent": "jetpack:custom/polar_bear",
+  "textures": {
+    "all": "jetpack:blocks/polar_bear",
+    "particle": "jetpack:blocks/polar_bear",
+    "0": "jetpack:blocks/polar_bear"
+  }
+}

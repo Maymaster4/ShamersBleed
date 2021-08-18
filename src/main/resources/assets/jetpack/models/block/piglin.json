@@ -1,0 +1,8 @@
+{
+  "parent": "jetpack:custom/piglin",
+  "textures": {
+    "all": "jetpack:blocks/piglin",
+    "particle": "jetpack:blocks/piglin",
+    "0": "jetpack:blocks/piglin"
+  }
+}

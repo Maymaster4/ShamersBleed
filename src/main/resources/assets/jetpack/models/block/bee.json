@@ -1,0 +1,8 @@
+{
+  "parent": "jetpack:custom/bee",
+  "textures": {
+    "all": "jetpack:blocks/bee",
+    "particle": "jetpack:blocks/bee",
+    "0": "jetpack:blocks/bee"
+  }
+}

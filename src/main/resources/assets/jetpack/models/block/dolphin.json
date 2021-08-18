@@ -1,0 +1,8 @@
+{
+  "parent": "jetpack:custom/dolphin",
+  "textures": {
+    "all": "jetpack:blocks/dolphin",
+    "particle": "jetpack:blocks/dolphin",
+    "0": "jetpack:blocks/dolphin"
+  }
+}

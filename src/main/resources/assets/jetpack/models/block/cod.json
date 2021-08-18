@@ -1,0 +1,8 @@
+{
+  "parent": "jetpack:custom/cod",
+  "textures": {
+    "all": "jetpack:blocks/cod",
+    "particle": "jetpack:blocks/cod",
+    "1": "jetpack:blocks/cod"
+  }
+}

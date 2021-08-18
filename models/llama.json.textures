@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "trader_llama"
+      },
+      "name": "default"
+    }
+  }
+}

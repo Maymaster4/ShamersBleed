@@ -1,0 +1,8 @@
+{
+  "parent": "jetpack:custom/trader_llama",
+  "textures": {
+    "all": "jetpack:blocks/trader_llama",
+    "particle": "jetpack:blocks/trader_llama",
+    "0": "jetpack:blocks/trader_llama"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "jetpack:custom/skeleton_horse",
+  "textures": {
+    "all": "jetpack:blocks/skeleton_horse",
+    "particle": "jetpack:blocks/skeleton_horse",
+    "0": "jetpack:blocks/skeleton_horse"
+  }
+}

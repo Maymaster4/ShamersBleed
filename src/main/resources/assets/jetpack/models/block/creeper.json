@@ -1,0 +1,8 @@
+{
+  "parent": "jetpack:custom/creeper",
+  "textures": {
+    "all": "jetpack:blocks/creeper",
+    "particle": "jetpack:blocks/creeper",
+    "0": "jetpack:blocks/creeper"
+  }
+}

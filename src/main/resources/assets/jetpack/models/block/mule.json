@@ -1,0 +1,8 @@
+{
+  "parent": "jetpack:custom/mule",
+  "textures": {
+    "all": "jetpack:blocks/mule",
+    "particle": "jetpack:blocks/mule",
+    "0": "jetpack:blocks/mule"
+  }
+}

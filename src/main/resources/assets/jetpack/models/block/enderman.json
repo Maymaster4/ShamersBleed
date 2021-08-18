@@ -1,0 +1,8 @@
+{
+  "parent": "jetpack:custom/enderman",
+  "textures": {
+    "all": "jetpack:blocks/enderman",
+    "particle": "jetpack:blocks/enderman",
+    "0": "jetpack:blocks/enderman"
+  }
+}

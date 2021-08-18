@@ -1,0 +1,8 @@
+{
+  "parent": "jetpack:custom/tropical_fish_a",
+  "textures": {
+    "all": "jetpack:blocks/tropical_fish_a",
+    "particle": "jetpack:blocks/tropical_fish_a",
+    "0": "jetpack:blocks/tropical_fish_a"
+  }
+}

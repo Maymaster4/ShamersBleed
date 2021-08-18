@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "elder_guardian"
+      },
+      "name": "default"
+    }
+  }
+}

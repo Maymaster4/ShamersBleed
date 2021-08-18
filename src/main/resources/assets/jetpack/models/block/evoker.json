@@ -1,0 +1,8 @@
+{
+  "parent": "jetpack:custom/evoker",
+  "textures": {
+    "all": "jetpack:blocks/evoker",
+    "particle": "jetpack:blocks/evoker",
+    "0": "jetpack:blocks/evoker"
+  }
+}

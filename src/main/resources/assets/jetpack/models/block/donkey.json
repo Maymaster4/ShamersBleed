@@ -1,0 +1,8 @@
+{
+  "parent": "jetpack:custom/donkey",
+  "textures": {
+    "all": "jetpack:blocks/donkey",
+    "particle": "jetpack:blocks/donkey",
+    "0": "jetpack:blocks/donkey"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "jetpack:custom/salmon",
+  "textures": {
+    "all": "jetpack:blocks/salmon",
+    "particle": "jetpack:blocks/salmon",
+    "0": "jetpack:blocks/salmon"
+  }
+}

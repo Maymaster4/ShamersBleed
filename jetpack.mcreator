@@ -1,0 +1,625 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "Jetpack",
+      "type": "procedure",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "jetpack",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "itemstack",
+            "type": "itemstack"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Jetpackk",
+      "type": "armor",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "jetpackk",
+      "metadata": {
+        "eh": false,
+        "el": false,
+        "eb": false,
+        "ec": true
+      }
+    },
+    {
+      "name": "Jetpack3dArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "jetpack_3d_armor_helmet_recipe"
+    },
+    {
+      "name": "Jetpack3dArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "jetpack_3d_armor_body_recipe"
+    },
+    {
+      "name": "Jetpack3dArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "jetpack_3d_armor_leggings_recipe"
+    },
+    {
+      "name": "Jetpack3dArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "jetpack_3d_armor_boots_recipe"
+    },
+    {
+      "name": "Scythe",
+      "type": "tool",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "scythe"
+    },
+    {
+      "name": "Sheep",
+      "type": "block",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sheep"
+    },
+    {
+      "name": "Cow",
+      "type": "block",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cow"
+    },
+    {
+      "name": "Fox",
+      "type": "block",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "fox"
+    },
+    {
+      "name": "Bat",
+      "type": "block",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bat"
+    },
+    {
+      "name": "Chicken",
+      "type": "block",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "chicken"
+    },
+    {
+      "name": "Cod",
+      "type": "block",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cod"
+    },
+    {
+      "name": "Ocelot",
+      "type": "block",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ocelot"
+    },
+    {
+      "name": "Pig",
+      "type": "block",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pig"
+    },
+    {
+      "name": "Piglin",
+      "type": "block",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "piglin"
+    },
+    {
+      "name": "PolarBear",
+      "type": "block",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "polar_bear"
+    },
+    {
+      "name": "Snowgolem",
+      "type": "block",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "snowgolem"
+    },
+    {
+      "name": "Rabbit",
+      "type": "block",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rabbit"
+    },
+    {
+      "name": "Salmon",
+      "type": "block",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "salmon"
+    },
+    {
+      "name": "Mooshroom",
+      "type": "block",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mooshroom"
+    },
+    {
+      "name": "Squid",
+      "type": "block",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "squid"
+    },
+    {
+      "name": "Strider",
+      "type": "block",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "strider"
+    },
+    {
+      "name": "Tropicalfish",
+      "type": "block",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tropicalfish"
+    },
+    {
+      "name": "Turtle",
+      "type": "block",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "turtle"
+    },
+    {
+      "name": "Villager",
+      "type": "block",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "villager"
+    },
+    {
+      "name": "Wanderingtrader",
+      "type": "block",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wanderingtrader"
+    },
+    {
+      "name": "Pufferfish",
+      "type": "block",
+      "sortid": 29,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pufferfish"
+    },
+    {
+      "name": "Donkey",
+      "type": "block",
+      "sortid": 30,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "donkey"
+    },
+    {
+      "name": "Horse",
+      "type": "block",
+      "sortid": 31,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "horse"
+    },
+    {
+      "name": "Cat",
+      "type": "block",
+      "sortid": 32,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cat"
+    },
+    {
+      "name": "Parrot",
+      "type": "block",
+      "sortid": 33,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "parrot"
+    },
+    {
+      "name": "Mule",
+      "type": "block",
+      "sortid": 34,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mule"
+    },
+    {
+      "name": "Skeletonhorse",
+      "type": "block",
+      "sortid": 35,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "skeletonhorse"
+    },
+    {
+      "name": "Dolphin",
+      "type": "block",
+      "sortid": 36,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dolphin"
+    },
+    {
+      "name": "Traderllama",
+      "type": "block",
+      "sortid": 37,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "traderllama"
+    },
+    {
+      "name": "Llama",
+      "type": "block",
+      "sortid": 38,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "llama"
+    },
+    {
+      "name": "Panda",
+      "type": "block",
+      "sortid": 39,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "panda"
+    },
+    {
+      "name": "Wolf",
+      "type": "block",
+      "sortid": 40,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wolf"
+    },
+    {
+      "name": "Bee",
+      "type": "block",
+      "sortid": 41,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bee"
+    },
+    {
+      "name": "IronGolem",
+      "type": "block",
+      "sortid": 42,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "iron_golem"
+    },
+    {
+      "name": "Spider",
+      "type": "block",
+      "sortid": 43,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "spider"
+    },
+    {
+      "name": "CaveSpider",
+      "type": "block",
+      "sortid": 44,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cave_spider"
+    },
+    {
+      "name": "Enderman",
+      "type": "block",
+      "sortid": 45,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "enderman"
+    },
+    {
+      "name": "ZombifiedPiglin",
+      "type": "block",
+      "sortid": 46,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "zombified_piglin"
+    },
+    {
+      "name": "Evoker",
+      "type": "block",
+      "sortid": 47,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "evoker"
+    },
+    {
+      "name": "Pillager",
+      "type": "block",
+      "sortid": 48,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pillager"
+    },
+    {
+      "name": "Ravager",
+      "type": "block",
+      "sortid": 49,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ravager"
+    },
+    {
+      "name": "Vex",
+      "type": "block",
+      "sortid": 50,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "vex"
+    },
+    {
+      "name": "Shulker",
+      "type": "block",
+      "sortid": 51,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shulker"
+    },
+    {
+      "name": "Guardian",
+      "type": "block",
+      "sortid": 52,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "guardian"
+    },
+    {
+      "name": "Husk",
+      "type": "block",
+      "sortid": 53,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "husk"
+    },
+    {
+      "name": "Creeper",
+      "type": "block",
+      "sortid": 54,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "creeper"
+    },
+    {
+      "name": "Elderguardian",
+      "type": "block",
+      "sortid": 55,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "elderguardian"
+    },
+    {
+      "name": "Ghast",
+      "type": "block",
+      "sortid": 56,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ghast"
+    },
+    {
+      "name": "Phantom",
+      "type": "block",
+      "sortid": 57,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "phantom"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "block.jetpack.donkey": "Donkey",
+      "block.jetpack.spider": "Spider",
+      "block.jetpack.llama": "Llama",
+      "block.jetpack.tropicalfish": "Tropicalfish",
+      "block.jetpack.vex": "Vex",
+      "block.jetpack.guardian": "Guardian",
+      "block.jetpack.squid": "Squid",
+      "block.jetpack.mule": "Mule",
+      "block.jetpack.piglin": "Piglin",
+      "block.jetpack.strider": "Strider",
+      "block.jetpack.pufferfish": "Pufferfish",
+      "block.jetpack.dolphin": "Dolphin",
+      "block.jetpack.pillager": "Pillager",
+      "block.jetpack.polar_bear": "Polar Bear",
+      "block.jetpack.horse": "Horse",
+      "block.jetpack.husk": "Husk",
+      "block.jetpack.iron_golem": "Iron Golem",
+      "block.jetpack.skeletonhorse": "Skeleton Horse",
+      "block.jetpack.fox": "Fox",
+      "block.jetpack.ghast": "Ghast",
+      "block.jetpack.villager": "Villager",
+      "block.jetpack.cave_spider": "Cave Spider",
+      "block.jetpack.cat": "Cat",
+      "block.jetpack.sheep": "Sheep",
+      "block.jetpack.rabbit": "Rabbit",
+      "block.jetpack.wolf": "Wolf",
+      "block.jetpack.ravager": "Ravager",
+      "block.jetpack.chicken": "Chicken",
+      "item.jetpack.jetpackk_boots": "Jetpackk Boots",
+      "block.jetpack.ocelot": "Ocelot",
+      "block.jetpack.wanderingtrader": "Wandering Trader",
+      "item.jetpack.scythe": "Scythe",
+      "block.jetpack.traderllama": "Traderllama",
+      "block.jetpack.phantom": "Phantom",
+      "item.jetpack.jetpackk_helmet": "Jetpackk Helmet",
+      "block.jetpack.snowgolem": "Snowgolem",
+      "block.jetpack.cod": "Cod",
+      "block.jetpack.mooshroom": "Mooshroom",
+      "block.jetpack.parrot": "Parrot",
+      "block.jetpack.shulker": "Shulker",
+      "block.jetpack.evoker": "Evoker",
+      "block.jetpack.creeper": "Creeper",
+      "block.jetpack.salmon": "Salmon",
+      "block.jetpack.bee": "Bee",
+      "block.jetpack.turtle": "Turtle",
+      "item.jetpack.jetpackk_leggings": "Jetpackk Leggings",
+      "block.jetpack.zombified_piglin": "Zombified Piglin",
+      "block.jetpack.cow": "Cow",
+      "block.jetpack.panda": "Panda",
+      "block.jetpack.pig": "Pig",
+      "block.jetpack.enderman": "Enderman",
+      "block.jetpack.elderguardian": "Elderguardian",
+      "item.jetpack.jetpackk_chestplate": "Jetpack",
+      "block.jetpack.bat": "Bat"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "jetpack",
+    "modName": "JetPack",
+    "version": "1.0.0",
+    "author": "aksha, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.16.5",
+    "modElementsPackage": "net.mcreator.jetpack",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100118117
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "jetpack:custom/bat",
+  "textures": {
+    "all": "jetpack:blocks/bat",
+    "particle": "jetpack:blocks/bat",
+    "1": "jetpack:blocks/bat"
+  }
+}

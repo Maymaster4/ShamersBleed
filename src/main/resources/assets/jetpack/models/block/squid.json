@@ -1,0 +1,8 @@
+{
+  "parent": "jetpack:custom/squid",
+  "textures": {
+    "all": "jetpack:blocks/squid",
+    "particle": "jetpack:blocks/squid",
+    "0": "jetpack:blocks/squid"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "jetpack:custom/ghast",
+  "textures": {
+    "all": "jetpack:blocks/ghast",
+    "particle": "jetpack:blocks/ghast",
+    "0": "jetpack:blocks/ghast"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "jetpack:custom/elder_guardian",
+  "textures": {
+    "all": "jetpack:blocks/elder_guardian",
+    "particle": "jetpack:blocks/elder_guardian",
+    "0": "jetpack:blocks/elder_guardian"
+  }
+}

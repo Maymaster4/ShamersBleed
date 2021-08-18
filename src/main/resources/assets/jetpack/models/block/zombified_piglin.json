@@ -1,0 +1,8 @@
+{
+  "parent": "jetpack:custom/zombified_piglin",
+  "textures": {
+    "all": "jetpack:blocks/zombified_piglin",
+    "particle": "jetpack:blocks/zombified_piglin",
+    "0": "jetpack:blocks/zombified_piglin"
+  }
+}

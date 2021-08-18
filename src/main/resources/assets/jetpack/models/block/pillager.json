@@ -1,0 +1,8 @@
+{
+  "parent": "jetpack:custom/pillager",
+  "textures": {
+    "all": "jetpack:blocks/pillager",
+    "particle": "jetpack:blocks/pillager",
+    "0": "jetpack:blocks/pillager"
+  }
+}

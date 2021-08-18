@@ -1,0 +1,8 @@
+{
+  "parent": "jetpack:custom/snow_golem",
+  "textures": {
+    "all": "jetpack:blocks/snow_golem",
+    "particle": "jetpack:blocks/snow_golem",
+    "0": "jetpack:blocks/snow_golem"
+  }
+}

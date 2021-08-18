@@ -1,0 +1,8 @@
+{
+  "parent": "jetpack:custom/husk",
+  "textures": {
+    "all": "jetpack:blocks/husk",
+    "particle": "jetpack:blocks/husk",
+    "0": "jetpack:blocks/husk"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "jetpack:custom/chicken",
+  "textures": {
+    "all": "jetpack:blocks/chicken",
+    "particle": "jetpack:blocks/chicken",
+    "1": "jetpack:blocks/chicken"
+  }
+}
